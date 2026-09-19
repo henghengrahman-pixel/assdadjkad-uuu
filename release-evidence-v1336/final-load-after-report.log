@@ -1,0 +1,45 @@
+
+> livechat-ai-railway@1.32.3 test:load
+> node scripts/load-simulation.mjs
+
+{
+  "ok": true,
+  "mode": "mock-fixture-simulation",
+  "note": "No real LiveChat/OpenAI/Telegram/PostgreSQL credentials are used by this load simulation.",
+  "laneLoad": {
+    "scenario": "5000-lane-mix",
+    "total": 5000,
+    "distribution": {
+      "MY_CHAT": 1000,
+      "QUEUED": 2500,
+      "SUPERVISED": 1000,
+      "TRAFFIC": 500
+    },
+    "heavyAiPath": 1000,
+    "queuedClaimAttempts": 0,
+    "supervisedAiOperations": 0,
+    "trafficConversationCreations": 0,
+    "processedEvents": 3000,
+    "duplicateEventIdsSkipped": 10,
+    "outboundUnique": 3000,
+    "maxInFlight": 64,
+    "concurrencyLimit": 64,
+    "queueDepthAfter": 0,
+    "heapDeltaBytes": 1350720,
+    "durationMs": 7,
+    "assertions": "PASS"
+  },
+  "queuedScenario": {
+    "scenario": "100-queued-60-polls",
+    "pollTicks": 60,
+    "queuedChats": 100,
+    "autoClaimAttempts": 0,
+    "membershipAttempts": 0,
+    "publicAgentLimitAttempts": 0,
+    "manualSuccessClaimAttempts": 1,
+    "manualCapacityFailureAttempts": 1,
+    "capacityFailureFinalLane": "QUEUED",
+    "cooldownApplied": true,
+    "assertions": "PASS"
+  }
+}

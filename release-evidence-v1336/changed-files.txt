@@ -1,0 +1,12 @@
+Files /mnt/data/lane_fix_round2_original/AI-LIVECHAT-8008-V1.32.3-LANE-HANDLING-FIX-FINAL/.env.example and /mnt/data/lane_fix_round2/AI-LIVECHAT-8008-V1.32.3-LANE-HANDLING-FIX-FINAL/.env.example differ
+Files /mnt/data/lane_fix_round2_original/AI-LIVECHAT-8008-V1.32.3-LANE-HANDLING-FIX-FINAL/FINAL-AUDIT-REPORT.md and /mnt/data/lane_fix_round2/AI-LIVECHAT-8008-V1.32.3-LANE-HANDLING-FIX-FINAL/FINAL-AUDIT-REPORT.md differ
+Only in /mnt/data/lane_fix_round2/AI-LIVECHAT-8008-V1.32.3-LANE-HANDLING-FIX-FINAL: PRODUCTION-RUNTIME-FIX-REPORT.md
+Only in /mnt/data/lane_fix_round2/AI-LIVECHAT-8008-V1.32.3-LANE-HANDLING-FIX-FINAL: release-evidence-v1336
+Files /mnt/data/lane_fix_round2_original/AI-LIVECHAT-8008-V1.32.3-LANE-HANDLING-FIX-FINAL/src/ai.js and /mnt/data/lane_fix_round2/AI-LIVECHAT-8008-V1.32.3-LANE-HANDLING-FIX-FINAL/src/ai.js differ
+Files /mnt/data/lane_fix_round2_original/AI-LIVECHAT-8008-V1.32.3-LANE-HANDLING-FIX-FINAL/src/config.js and /mnt/data/lane_fix_round2/AI-LIVECHAT-8008-V1.32.3-LANE-HANDLING-FIX-FINAL/src/config.js differ
+Files /mnt/data/lane_fix_round2_original/AI-LIVECHAT-8008-V1.32.3-LANE-HANDLING-FIX-FINAL/src/engine.js and /mnt/data/lane_fix_round2/AI-LIVECHAT-8008-V1.32.3-LANE-HANDLING-FIX-FINAL/src/engine.js differ
+Only in /mnt/data/lane_fix_round2/AI-LIVECHAT-8008-V1.32.3-LANE-HANDLING-FIX-FINAL/src: session-identity.js
+Files /mnt/data/lane_fix_round2_original/AI-LIVECHAT-8008-V1.32.3-LANE-HANDLING-FIX-FINAL/tests/session-isolation-scroll.test.js and /mnt/data/lane_fix_round2/AI-LIVECHAT-8008-V1.32.3-LANE-HANDLING-FIX-FINAL/tests/session-isolation-scroll.test.js differ
+Files /mnt/data/lane_fix_round2_original/AI-LIVECHAT-8008-V1.32.3-LANE-HANDLING-FIX-FINAL/tests/v1256-new-session-greeting.test.js and /mnt/data/lane_fix_round2/AI-LIVECHAT-8008-V1.32.3-LANE-HANDLING-FIX-FINAL/tests/v1256-new-session-greeting.test.js differ
+Files /mnt/data/lane_fix_round2_original/AI-LIVECHAT-8008-V1.32.3-LANE-HANDLING-FIX-FINAL/tests/v1289-system-banner-event-greeting.test.js and /mnt/data/lane_fix_round2/AI-LIVECHAT-8008-V1.32.3-LANE-HANDLING-FIX-FINAL/tests/v1289-system-banner-event-greeting.test.js differ
+Only in /mnt/data/lane_fix_round2/AI-LIVECHAT-8008-V1.32.3-LANE-HANDLING-FIX-FINAL/tests: v1336-production-runtime-fix.test.js
